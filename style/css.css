@@ -1,0 +1,38 @@
+h1 { color:black;
+    text-align:center 
+}
+
+h2 {color:black;
+    text-align:center
+}
+
+h3 {color:black);
+text-align: center;}
+
+
+.area {
+    width: 100%;
+    max-width: 440px;
+    background-color: rgb(187, 170, 170);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .responsive {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  span {
+    font-weight: 700;
+  }
+  ul {
+    text-align: justify;
+    margin-right: 20px;
+  }
